@@ -1,3 +1,5 @@
+#https://www.youtube.com/watch?v=5s9pR9UUtAU&ab_channel=JavaTechie
+
 spring:
   application:
     name: ELK-STACK-EXAMPLE
@@ -6,4 +8,4 @@ server:
   port: 9898
 
 logging:
-  file: C:/Users/basan/Desktop/logs/elk-stack.log
+  file: D:/Configure-Stuff/Git/OWN_REPO/elk-stack-logging-example/elk-stack.log
